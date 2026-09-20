@@ -1,0 +1,45 @@
+{
+    "Students": [
+        {
+            "name": "Nav",
+            "age": 20,
+            "roll_number": "33",
+            "grades": {
+                "Mathematics": 98.0,
+                "Statistics": 89.0,
+                "Computer Science": 95.0
+            },
+            "email": "\u2013"
+        },
+        {
+            "name": "Navneet",
+            "age": 21,
+            "roll_number": "25220STA033",
+            "email": "NAV@gmail.com",
+            "grades": {
+                "Maths": 95.0
+            }
+        },
+        {
+            "name": "Vaishya",
+            "age": 23,
+            "roll_number": "25220ESC004",
+            "email": "vaishyaayush034@gmail.com",
+            "grades": {
+                "Physics": 70.0,
+                "Earth Science": 65.0,
+                "SEC": 50.0,
+                "MD": 58.0
+            }
+        }
+    ],
+    "Teachers": [
+        {
+            "name": "Rohit",
+            "age": 56,
+            "emp_id": "556",
+            "subject": "Maths",
+            "email": "rohit@gmail.com"
+        }
+    ]
+}
