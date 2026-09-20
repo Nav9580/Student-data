@@ -111,7 +111,8 @@ class Teacher(Person):
 student, teacher = Student(), Teacher()
  
 # ------------------------------------------------------------------- styling
-st.set_page_config(page_title="Schoolroom", page_icon="🎓", layout="wide")
+st.set_page_config(page_title="Schoolroom", page_icon="🏫", layout="wide", initial_sidebar_state="expanded")
+
  
 st.markdown(
     """
