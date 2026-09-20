@@ -124,7 +124,7 @@ st.markdown(
 html, body, [class*="css"], .stMarkdown, label { font-family:'Source Sans 3', sans-serif; }
 h1, h2, h3, .brand { font-family:'Bricolage Grotesque', sans-serif !important; color:var(--ink); letter-spacing:-0.01em; }
 h1 { font-weight:800 !important; }
-#MainMenu, footer, header[data-testid="stHeader"] { visibility:hidden; height:0; }
+#MainMenu, footer, { visibility:hidden; }
 .block-container { padding-top:2rem; max-width:1150px; }
  
 /* sidebar */
